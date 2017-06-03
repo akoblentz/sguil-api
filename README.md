@@ -11,7 +11,7 @@ Built with Ruby version 2.4.0p0 and Rails version 5.1.1
 
 * Configuration
 
-This application is currently in development mode, not suitable for productiona as-is.
+This application is currently in development mode, not suitable for production as-is.
 
 * Database initialization
 
